@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_G4L6AEzuEe6SCvn_ZTzUXQ" comment="connectionComment" label="connectionLabel" dataPackage="_G4L6AUzuEe6SCvn_ZTzUXQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_G4L6AUzuEe6SCvn_ZTzUXQ" dataManager="_G4L6AEzuEe6SCvn_ZTzUXQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_G4L6AkzuEe6SCvn_ZTzUXQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_G4L6A0zuEe6SCvn_ZTzUXQ" name="CustomerID" id="5130" label="CustomerID" length="10" sourceType="" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_G4L6BEzuEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_G4L6BUzuEe6SCvn_ZTzUXQ" name="Name" id="5131" label="Name" length="100" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_G4L6BkzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_G4L6B0zuEe6SCvn_ZTzUXQ" name="Email" id="5132" label="Email" length="100" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_G4L6CEzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_G4L6CUzuEe6SCvn_ZTzUXQ" name="Age" id="5133" label="Age" length="3" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_G4L6CkzuEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_G4L6C0zuEe6SCvn_ZTzUXQ" name="Gender" id="5134" label="Gender" length="10" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_G4L6DEzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_G4L6DUzuEe6SCvn_ZTzUXQ" name="Location" id="5135" label="Location" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_G4L6DkzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

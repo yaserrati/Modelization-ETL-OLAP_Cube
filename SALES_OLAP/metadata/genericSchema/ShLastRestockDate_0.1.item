@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_asw-Ikz2Ee6SCvn_ZTzUXQ" comment="connectionComment" label="connectionLabel" dataPackage="_asw-I0z2Ee6SCvn_ZTzUXQ" mappingTypeUsed="true" mappingTypeId="id_MSSQL"/>
+  <TalendMetadata:GenericPackage xmi:id="_asw-I0z2Ee6SCvn_ZTzUXQ" dataManager="_asw-Ikz2Ee6SCvn_ZTzUXQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_asw-JEz2Ee6SCvn_ZTzUXQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_asw-JUz2Ee6SCvn_ZTzUXQ" name="LastRestockDateID" id="5272" label="LastRestockDateID" length="-1" precision="-1" sourceType="" talendType="id_Integer" key="true">
+        <initialValue xmi:id="_asw-Jkz2Ee6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_asw-J0z2Ee6SCvn_ZTzUXQ" name="LastRestockDate" id="5273" label="LastRestockDate" length="20" sourceType="" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_asw-KEz2Ee6SCvn_ZTzUXQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

@@ -1,0 +1,192 @@
+[ {
+  "baseItem" : {
+    "id" : "_6BAwIEwlEe6k4KMViBHs1Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_OLAP:_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_BAY98EsyEe6k4KMViBHs1Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_HZ3H0Es6Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_P-W8oEszEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zE7dwEszEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_P-W8oEszEe6k4KMViBHs1Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zE7dwEszEe6k4KMViBHs1Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_K1iHsEyeEe6k4KMViBHs1Q",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_OLAP:_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QrgFUEvJEe6k4KMViBHs1Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ ]
+}, {
+  "baseItem" : {
+    "id" : "_ZyJTAE41Ee6SCvn_ZTzUXQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_OLAP:_6BAwIEwlEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "SALES_OLAP:_BAY98EsyEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "SALES_OLAP:_K1iHsEyeEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "SALES_OLAP:_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "SALES_OLAP:_m9Fa4EzjEe6qr9efYFtLmA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_bELtQE1yEe6SCvn_ZTzUXQ",
+    "version" : "0.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_OLAP:_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UGkMYEzZEe6k4KMViBHs1Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_wR-rQE1zEe6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_HZ3H0Es6Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "RMedian",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_m9Fa4EzjEe6qr9efYFtLmA",
+    "version" : "0.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_OLAP:_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_G4I2sEzuEe6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_HwMjQEzyEe6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_V2g6gEzuEe6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_aM3pAEzpEe6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_asw-IEz2Ee6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_btG6cEzuEe6SCvn_ZTzUXQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xmYfIE2DEe6SCvn_ZTzUXQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_OLAP:_fO0N8Es-Ee6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q - DimSubCategory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7GnKAEyYEe6k4KMViBHs1Q - DimSupplier",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

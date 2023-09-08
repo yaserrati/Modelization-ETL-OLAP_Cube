@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_V2hhkEzuEe6SCvn_ZTzUXQ" comment="connectionComment" label="connectionLabel" dataPackage="_V2hhkUzuEe6SCvn_ZTzUXQ" mappingTypeUsed="true" mappingTypeId="id_MSSQL"/>
+  <TalendMetadata:GenericPackage xmi:id="_V2hhkUzuEe6SCvn_ZTzUXQ" dataManager="_V2hhkEzuEe6SCvn_ZTzUXQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_V2hhkkzuEe6SCvn_ZTzUXQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_V2hhk0zuEe6SCvn_ZTzUXQ" name="ShippingMethodID" id="5264" label="ShippingMethodID" length="-1" precision="-1" sourceType="" talendType="id_Integer" key="true">
+        <initialValue xmi:id="_V2hhlEzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_V2hhlUzuEe6SCvn_ZTzUXQ" name="ShippingMethod" id="5265" label="ShippingMethod" length="20" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_V2hhlkzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

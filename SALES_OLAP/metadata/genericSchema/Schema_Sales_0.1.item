@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_aNLLAEzpEe6SCvn_ZTzUXQ" comment="connectionComment" label="connectionLabel" dataPackage="_aNLLAUzpEe6SCvn_ZTzUXQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_aNLLAUzpEe6SCvn_ZTzUXQ" dataManager="_aNLLAEzpEe6SCvn_ZTzUXQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_aNLLAkzpEe6SCvn_ZTzUXQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLA0zpEe6SCvn_ZTzUXQ" name="CustomerID" id="1573" label="CustomerID" length="10" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLBEzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLBUzpEe6SCvn_ZTzUXQ" name="Name" id="1574" label="Name" length="100" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLBkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLB0zpEe6SCvn_ZTzUXQ" name="Email" id="1575" label="Email" length="100" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLCEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLCUzpEe6SCvn_ZTzUXQ" name="Age" id="1576" label="Age" length="3" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLCkzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLC0zpEe6SCvn_ZTzUXQ" name="Gender" id="1577" label="Gender" length="10" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLDEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLDUzpEe6SCvn_ZTzUXQ" name="Location" id="1578" label="Location" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLDkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLD0zpEe6SCvn_ZTzUXQ" name="ProductID" id="1579" label="ProductID" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLEEzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLEUzpEe6SCvn_ZTzUXQ" name="Category" id="1580" label="Category" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLEkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLE0zpEe6SCvn_ZTzUXQ" name="Subcategory" id="1581" label="Subcategory" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLFEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLFUzpEe6SCvn_ZTzUXQ" name="Price" id="1582" label="Price" length="10" precision="3" sourceType="" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLFkzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLF0zpEe6SCvn_ZTzUXQ" name="Weight" id="1583" label="Weight" length="10" precision="4" sourceType="" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLGEzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLGUzpEe6SCvn_ZTzUXQ" name="Dimensions" id="1584" label="Dimensions" length="10" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLGkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLG0zpEe6SCvn_ZTzUXQ" name="OrderID" id="1585" label="OrderID" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLHEzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLHUzpEe6SCvn_ZTzUXQ" name="Date_Order" id="1586" label="Date_Order" length="20" sourceType="" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLHkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLH0zpEe6SCvn_ZTzUXQ" name="TotalAmount" id="1587" label="TotalAmount" length="20" sourceType="" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLIEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLIUzpEe6SCvn_ZTzUXQ" name="ShippingMethod" id="1588" label="ShippingMethod" length="20" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLIkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLI0zpEe6SCvn_ZTzUXQ" name="Status" id="1589" label="Status" length="20" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLJEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLJUzpEe6SCvn_ZTzUXQ" name="InventoryID" id="1590" label="InventoryID" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLJkzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLJ0zpEe6SCvn_ZTzUXQ" name="StockLevel" id="1591" label="StockLevel" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLKEzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLKUzpEe6SCvn_ZTzUXQ" name="RestockThreshold" id="1592" label="RestockThreshold" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLKkzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLK0zpEe6SCvn_ZTzUXQ" name="LastRestockDate" id="1593" label="LastRestockDate" length="20" sourceType="" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLLEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLLUzpEe6SCvn_ZTzUXQ" name="WarehouseID" id="1594" label="WarehouseID" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLLkzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLL0zpEe6SCvn_ZTzUXQ" name="Location_warehouse" id="1595" label="Location_warehouse" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLMEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLMUzpEe6SCvn_ZTzUXQ" name="Capacity" id="1596" label="Capacity" length="10" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLMkzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLM0zpEe6SCvn_ZTzUXQ" name="SupplierID" id="1597" label="SupplierID" length="4" sourceType="" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLNEzpEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLNUzpEe6SCvn_ZTzUXQ" name="Company" id="1598" label="Company" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLNkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLN0zpEe6SCvn_ZTzUXQ" name="Location_Supplier" id="1599" label="Location_Supplier" length="50" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLOEzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aNLLOUzpEe6SCvn_ZTzUXQ" name="QualityScore" id="1600" label="QualityScore" length="5" sourceType="" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_aNLLOkzpEe6SCvn_ZTzUXQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

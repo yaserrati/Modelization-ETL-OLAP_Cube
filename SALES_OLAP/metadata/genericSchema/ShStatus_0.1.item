@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_btKk0EzuEe6SCvn_ZTzUXQ" comment="connectionComment" label="connectionLabel" dataPackage="_btKk0UzuEe6SCvn_ZTzUXQ" mappingTypeUsed="true" mappingTypeId="id_MSSQL"/>
+  <TalendMetadata:GenericPackage xmi:id="_btKk0UzuEe6SCvn_ZTzUXQ" dataManager="_btKk0EzuEe6SCvn_ZTzUXQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_btKk0kzuEe6SCvn_ZTzUXQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_btKk00zuEe6SCvn_ZTzUXQ" name="StatusID" id="5256" label="StatusID" length="-1" precision="-1" sourceType="" talendType="id_Integer" key="true">
+        <initialValue xmi:id="_btKk1EzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_btKk1UzuEe6SCvn_ZTzUXQ" name="Status" id="5257" label="Status" length="20" sourceType="" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_btKk1kzuEe6SCvn_ZTzUXQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

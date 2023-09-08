@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_f9pmsEs6Ee6k4KMViBHs1Q" name="staging_area_db" id="_HZ3H0Es6Ee6k4KMViBHs1Q" label="staging_area_db" dataPackage="_0yBbQEs_Ee6k4KMViBHs1Q" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://172.16.9.85:1433/Sales_Olap_Staging_Area_DB;" dbVersionString="JTDS" Port="1433" Username="Tarifi" Password="enc:system.encryption.key.v1:Q0LPHp1Eft6XHjCylxUHX4b4MHNV824WBE6RK92Xp2TvMNI=" ServerName="172.16.9.85" DatasourceName="" FileFieldName="" SID="Sales_Olap_Staging_Area_DB" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_f9pmsUs6Ee6k4KMViBHs1Q" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_f96scEs6Ee6k4KMViBHs1Q" tag="package filter" value=""/>
+    <taggedValue xmi:id="_f-EdcEs6Ee6k4KMViBHs1Q" tag="Status" value=""/>
+    <taggedValue xmi:id="_f-EdcUs6Ee6k4KMViBHs1Q" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_f-Edcks6Ee6k4KMViBHs1Q" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_f-Edc0s6Ee6k4KMViBHs1Q" tag="Description" value=""/>
+    <taggedValue xmi:id="_f-EddEs6Ee6k4KMViBHs1Q" tag="Author" value=""/>
+    <taggedValue xmi:id="_f-EddUs6Ee6k4KMViBHs1Q" tag="otherParameter"/>
+    <taggedValue xmi:id="_f-q6YEs6Ee6k4KMViBHs1Q" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_f-q6YUs6Ee6k4KMViBHs1Q" tag="DB ProductVersion" value="16.00.1000"/>
+    <taggedValue xmi:id="_f-q6Yks6Ee6k4KMViBHs1Q" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_f9pmsks6Ee6k4KMViBHs1Q" key="CONN_PARA_KEY_USERNAME" value="Tarifi"/>
+    <parameters xmi:id="_dOWVkEs_Ee6k4KMViBHs1Q" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_0yBbQEs_Ee6k4KMViBHs1Q" name="Sales_Olap_Staging_Area_DB" dataManager="_f9pmsEs6Ee6k4KMViBHs1Q">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbQUs_Ee6k4KMViBHs1Q" name="db_accessadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbQks_Ee6k4KMViBHs1Q" name="db_backupoperator"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbQ0s_Ee6k4KMViBHs1Q" name="db_datareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbREs_Ee6k4KMViBHs1Q" name="db_datawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbRUs_Ee6k4KMViBHs1Q" name="db_ddladmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbRks_Ee6k4KMViBHs1Q" name="db_denydatareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbR0s_Ee6k4KMViBHs1Q" name="db_denydatawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbSEs_Ee6k4KMViBHs1Q" name="db_owner"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbSUs_Ee6k4KMViBHs1Q" name="db_securityadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbSks_Ee6k4KMViBHs1Q" name="dbo"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbS0s_Ee6k4KMViBHs1Q" name="guest"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbTEs_Ee6k4KMViBHs1Q" name="INFORMATION_SCHEMA"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_0yBbTUs_Ee6k4KMViBHs1Q" name="sys"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

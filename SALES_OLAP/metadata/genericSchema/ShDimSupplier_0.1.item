@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_wR-rQk1zEe6SCvn_ZTzUXQ" comment="connectionComment" label="connectionLabel" dataPackage="_wR-rQ01zEe6SCvn_ZTzUXQ" mappingTypeUsed="true" mappingTypeId="id_MSSQL"/>
+  <TalendMetadata:GenericPackage xmi:id="_wR-rQ01zEe6SCvn_ZTzUXQ" dataManager="_wR-rQk1zEe6SCvn_ZTzUXQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_wR-rRE1zEe6SCvn_ZTzUXQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wR-rRU1zEe6SCvn_ZTzUXQ" name="SupplierID" id="16079" label="SupplierID" length="4" sourceType="INT" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wR-rRk1zEe6SCvn_ZTzUXQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wR-rR01zEe6SCvn_ZTzUXQ" name="Location_Supplier" id="16080" label="Location_Supplier" length="50" sourceType="VARCHAR" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wR-rSE1zEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wR-rSU1zEe6SCvn_ZTzUXQ" name="QualityScore" id="16081" label="QualityScore" length="5" sourceType="FLOAT" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wR-rSk1zEe6SCvn_ZTzUXQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wR-rS01zEe6SCvn_ZTzUXQ" name="CompanyID" id="16082" label="CompanyID" length="-1" precision="-1" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_wR-rTE1zEe6SCvn_ZTzUXQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
